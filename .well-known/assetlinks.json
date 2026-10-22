@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.aleraccapal.twa",
+        "sha256_cert_fingerprints": ["E4:64:A5:78:7A:62:98:E0:9F:FD:5C:CE:B3:10:C7:8A:D0:AF:DF:A2:4C:CA:B9:74:72:2E:8D:7F:EE:94:C7:17"]
+      }
+    }]
